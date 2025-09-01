@@ -1,5 +1,7 @@
-## Hi there 👋
-
+### Olá, eu sou a Laiza. 
+💻 Desenvolvedora Front-end apaixonada por transformar ideias em interfaces modernas e funcionais.
+🎨 Experiência em HTML, CSS, JavaScript e foco em React para criar aplicações responsivas.
+📚 Sempre aprendendo novas tecnologias para melhorar a performance e acessibilidade e resolver problemas. 
 <!--
 **laiza01/laiza01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
